@@ -1,0 +1,15 @@
+/Users/uliasarapulova/projects/diploma_geekbrains/bin/Debug/net6.0/diploma_geekbrains
+/Users/uliasarapulova/projects/diploma_geekbrains/bin/Debug/net6.0/diploma_geekbrains.deps.json
+/Users/uliasarapulova/projects/diploma_geekbrains/bin/Debug/net6.0/diploma_geekbrains.runtimeconfig.json
+/Users/uliasarapulova/projects/diploma_geekbrains/bin/Debug/net6.0/diploma_geekbrains.dll
+/Users/uliasarapulova/projects/diploma_geekbrains/bin/Debug/net6.0/diploma_geekbrains.pdb
+/Users/uliasarapulova/projects/diploma_geekbrains/obj/Debug/net6.0/diploma_geekbrains.csproj.AssemblyReference.cache
+/Users/uliasarapulova/projects/diploma_geekbrains/obj/Debug/net6.0/diploma_geekbrains.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uliasarapulova/projects/diploma_geekbrains/obj/Debug/net6.0/diploma_geekbrains.AssemblyInfoInputs.cache
+/Users/uliasarapulova/projects/diploma_geekbrains/obj/Debug/net6.0/diploma_geekbrains.AssemblyInfo.cs
+/Users/uliasarapulova/projects/diploma_geekbrains/obj/Debug/net6.0/diploma_geekbrains.csproj.CoreCompileInputs.cache
+/Users/uliasarapulova/projects/diploma_geekbrains/obj/Debug/net6.0/diploma_geekbrains.dll
+/Users/uliasarapulova/projects/diploma_geekbrains/obj/Debug/net6.0/refint/diploma_geekbrains.dll
+/Users/uliasarapulova/projects/diploma_geekbrains/obj/Debug/net6.0/diploma_geekbrains.pdb
+/Users/uliasarapulova/projects/diploma_geekbrains/obj/Debug/net6.0/diploma_geekbrains.genruntimeconfig.cache
+/Users/uliasarapulova/projects/diploma_geekbrains/obj/Debug/net6.0/ref/diploma_geekbrains.dll
